@@ -31,7 +31,7 @@
 
 #### **Frontend Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,shadcn,chartjs" height="45" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,shadcn,chartjs,livewire,filament,inertia" height="45" />
 </p>
 
 #### **DevOps & Tools**
