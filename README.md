@@ -31,12 +31,12 @@
 
 #### **Frontend Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,shadcn" height="45" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,shadcn,chartjs" height="45" />
 </p>
 
 #### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,gitlab" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,gitlab,nginx,portainer" height="45" />
 </p>
 
 ---
@@ -59,6 +59,18 @@
   </a>
   <a href="https://linkedin.com/in/rsht">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+    <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/rasyid.alzahrawi">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://t.me/@roshitx">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://open.spotify.com/user/roshit">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
 
